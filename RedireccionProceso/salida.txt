@@ -1,0 +1,26 @@
+Microsoft Windows [Versi¢n 10.0.22631.4169]
+(c) Microsoft Corporation. Todos los derechos reservados.
+
+C:\Users\AlfonsoGaitanPerez\Documents\NetBeansProjects\Psp\RedireccionProceso>DIR
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: 4871-41E9
+
+ Directorio de C:\Users\AlfonsoGaitanPerez\Documents\NetBeansProjects\Psp\RedireccionProceso
+
+26/09/2024  12:50    <DIR>          .
+26/09/2024  12:40    <DIR>          ..
+26/09/2024  12:50    <DIR>          build
+26/09/2024  12:40             3.639 build.xml
+26/09/2024  12:50                 0 error.txt
+26/09/2024  12:41                11 fichero.bat
+26/09/2024  12:40                85 manifest.mf
+26/09/2024  12:40    <DIR>          nbproject
+26/09/2024  12:50                 0 salida.txt
+26/09/2024  12:40    <DIR>          src
+26/09/2024  12:46    <DIR>          test
+               5 archivos          3.735 bytes
+               6 dirs  375.867.731.968 bytes libres
+
+C:\Users\AlfonsoGaitanPerez\Documents\NetBeansProjects\Psp\RedireccionProceso>DIRR
+
+C:\Users\AlfonsoGaitanPerez\Documents\NetBeansProjects\Psp\RedireccionProceso>
